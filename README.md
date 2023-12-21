@@ -114,8 +114,8 @@ footer{
   }
 ``````
 ## output
+![Screenshot (4)2](https://github.com/vinodhini-17/Ex-06-Book-Cover-Design/assets/145742741/17f773ca-8fca-42dc-a360-9b1f9a379309)
 
-![Alt text](<Screenshot (4)2.png>)
 
 ## Result
 
